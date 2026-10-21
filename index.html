@@ -187,7 +187,7 @@ window.dash = (function(){
   <div class="sr-grid">
     <section class="sr-card" id="wind">
       <h2>Wind</h2>
-      <p class="sr-note">Speed range in km/h. Arrows show the direction the wind blows towards.</p>
+      <p class="sr-note">Speed range in km/h (left) and knots (right). Arrows show the direction the wind blows towards.</p>
       <div class="sr-chart dash-skeleton" id="wind-chart" data-source="wind"></div>
     </section>
     <section class="sr-card" id="swell">
@@ -296,7 +296,7 @@ dash.calc('tide_curve', {
     box.classList.remove('dash-skeleton');
     const rows = pick(d.data).map(r => ({ ...r, low: Number(r.low_kmh), high: Number(r.high_kmh), deg: Number(r.dir_deg) }));
     box.querySelectorAll('svg').forEach(n => n.remove());
-    const W = box.clientWidth || 360, H = 250, m = { t: 52, r: 8, b: 26, l: 34 };
+    const W = box.clientWidth || 360, H = 250, m = { t: 52, r: 30, b: 26, l: 34 };
     const svg = d3.select(box).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`);
     const x = d3.scaleBand(rows.map(r => r.label), [m.l, W - m.r]).padding(0.35);
     const y = d3.scaleLinear([0, Math.max(30, d3.max(rows, r => r.high) * 1.15)], [H - m.b, m.t]).nice();
@@ -304,6 +304,10 @@ dash.calc('tide_curve', {
     axisStyle(gy); gy.select('.domain').remove();
     const gx = svg.append('g').attr('transform', `translate(0,${H - m.b})`).call(d3.axisBottom(x).tickSize(0).tickPadding(8)); axisStyle(gx);
     svg.append('text').attr('x', 0).attr('y', m.t - 20).attr('fill', 'var(--color-fg-muted)').style('font-size', 'var(--cds-font-size-caption)').text('km/h');
+    const yk = d3.scaleLinear([0, y.domain()[1] / 1.852], [H - m.b, m.t]);
+    const gk = svg.append('g').attr('transform', `translate(${W - m.r},0)`).call(d3.axisRight(yk).ticks(4).tickSize(0).tickPadding(6));
+    axisStyle(gk); gk.select('.domain').remove();
+    svg.append('text').attr('x', W).attr('y', m.t - 20).attr('text-anchor', 'end').attr('fill', 'var(--color-fg-muted)').style('font-size', 'var(--cds-font-size-caption)').text('knots');
     const bw = Math.min(32, x.bandwidth());
     const t = tip(box);
     const g = svg.selectAll('.b').data(rows).join('g');
@@ -312,7 +316,7 @@ dash.calc('tide_curve', {
     g.each(function (r) { arrow(d3.select(this), x(r.label) + x.bandwidth() / 2, y(r.high) - 14, r.deg + 180, 'var(--color-fg)'); });
     g.append('text').attr('x', r => x(r.label) + x.bandwidth() / 2).attr('y', r => y(r.high) - 30).attr('text-anchor', 'middle').attr('fill', 'var(--color-fg)').style('font-size', 'var(--cds-font-size-caption)').style('font-weight', 'var(--cds-font-weight-medium)').text(r => r.dir);
     g.append('rect').attr('x', r => x(r.label)).attr('width', x.bandwidth()).attr('y', m.t).attr('height', H - m.t - m.b).attr('fill', 'transparent')
-      .on('mousemove', function (ev, r) { const [px, py] = d3.pointer(ev, box); showTip(box, t, px, py, r.label, [`${r.low}–${r.high} km/h from the ${r.dir}`]); })
+      .on('mousemove', function (ev, r) { const [px, py] = d3.pointer(ev, box); showTip(box, t, px, py, r.label, [`${r.low}–${r.high} km/h (${Math.round(r.low / 1.852)}–${Math.round(r.high / 1.852)} kn) from the ${r.dir}`]); })
       .on('mouseleave', () => { t.style.opacity = 0; });
   };
 
