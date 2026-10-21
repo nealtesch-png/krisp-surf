@@ -304,8 +304,7 @@ dash.calc('tide_curve', {
     axisStyle(gy); gy.select('.domain').remove();
     const gx = svg.append('g').attr('transform', `translate(0,${H - m.b})`).call(d3.axisBottom(x).tickSize(0).tickPadding(8)); axisStyle(gx);
     svg.append('text').attr('x', 0).attr('y', m.t - 20).attr('fill', 'var(--color-fg-muted)').style('font-size', 'var(--cds-font-size-caption)').text('km/h');
-    const yk = d3.scaleLinear([0, y.domain()[1] / 1.852], [H - m.b, m.t]);
-    const gk = svg.append('g').attr('transform', `translate(${W - m.r},0)`).call(d3.axisRight(yk).ticks(4).tickSize(0).tickPadding(6));
+    const gk = svg.append('g').attr('transform', `translate(${W - m.r},0)`).call(d3.axisRight(y).ticks(4).tickSize(0).tickPadding(6).tickFormat(v => String(Math.round(v / 1.852))));
     axisStyle(gk); gk.select('.domain').remove();
     svg.append('text').attr('x', W).attr('y', m.t - 20).attr('text-anchor', 'end').attr('fill', 'var(--color-fg-muted)').style('font-size', 'var(--cds-font-size-caption)').text('knots');
     const bw = Math.min(32, x.bandwidth());
