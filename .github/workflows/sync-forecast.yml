@@ -1,0 +1,41 @@
+name: Sync nightly forecast
+
+on:
+  schedule:
+    - cron: "20 8 * * *"   # 6:20pm Brisbane
+    - cron: "50 8 * * *"   # 6:50pm Brisbane (backup)
+    - cron: "30 10 * * *"  # 8:30pm Brisbane (backup)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download latest forecast
+        env:
+          FORECAST_URL: ${{ vars.FORECAST_URL }}
+        run: |
+          set -e
+          test -n "$FORECAST_URL" || { echo "FORECAST_URL variable not set"; exit 1; }
+          curl -fsSL "$FORECAST_URL" -o /tmp/forecast.json
+          python3 - <<'PY'
+          import json
+          d = json.load(open('/tmp/forecast.json'))
+          for k in ['updated', 'wind', 'swell', 'tides', 'day', 'spots']:
+              assert k in d, f'missing {k}'
+          assert len(d['day']) >= 1, 'no days'
+          print('OK', d['updated'], len(d['day']), 'days')
+          PY
+          cp /tmp/forecast.json data/forecast.json
+      - name: Commit if changed
+        run: |
+          if git diff --quiet data/forecast.json; then echo "No change"; exit 0; fi
+          git config user.name "KRISP forecast bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/forecast.json
+          git commit -m "Nightly forecast sync"
+          git push
