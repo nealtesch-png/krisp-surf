@@ -641,7 +641,7 @@
    "date": "2026-11-01",
    "day_label": "Sunday 1 November",
    "short": "Sun 1",
-   "verdict": "Northerlies all day on a small mixed swell. Your best shot is Kings Beach from dawn to about 10am, where the northerly blows offshore, or the sheltered north end of Coolum.",
+   "verdict": "Northerlies all day on a small mixed swell. Your best shot is Kings Beach from dawn to about 10am, where the northerly blows offshore.",
    "outlook": "Partly cloudy, showers from late morning, possible afternoon storm.",
    "temp_min_c": 17,
    "temp_max_c": 28,
@@ -671,7 +671,7 @@
    "date": "2026-11-03",
    "day_label": "Tuesday 3 November",
    "short": "Tue 3",
-   "verdict": "Strong northerlies make a mess of a building wind swell. Save your energy, or try the north end of Coolum at first light.",
+   "verdict": "Strong northerlies make a mess of a building wind swell. Save your energy, unless a small, clean Kings Beach at first light appeals.",
    "outlook": "Showers likely in the afternoon and evening, storms likely.",
    "temp_min_c": 20,
    "temp_max_c": 29,
@@ -772,10 +772,10 @@
   {
    "date": "2026-11-01",
    "spot": "Coolum Beach",
-   "rating": "Fair",
+   "rating": "Poor",
    "size": "0.5–0.8 m",
-   "best": "Dawn to 9am",
-   "note": "North end is tucked behind Point Perry out of the northerly; cleanest of the open beaches."
+   "best": "Dawn only",
+   "note": "The northerly is cross-shore on this east-facing beach. Small and bumpy, much like Sunshine and Peregian."
   },
   {
    "date": "2026-11-01",
@@ -847,7 +847,7 @@
    "rating": "Fair",
    "size": "0.5–0.7 m",
    "best": "Dawn to 8am",
-   "note": "Clean early in the north-westerly; north end holds shape longest."
+   "note": "Clean early in the north-westerly; small, and bumpy once the north-easterly arrives."
   },
   {
    "date": "2026-11-02",
@@ -919,7 +919,7 @@
    "rating": "Poor",
    "size": "0.7–1.0 m",
    "best": "Dawn to 7am",
-   "note": "North end gives a little shelter at first light; blown out after."
+   "note": "Strong northerly cross-onshore; wind-chopped from first light."
   },
   {
    "date": "2026-11-03",
@@ -1063,7 +1063,7 @@
    "rating": "Fair",
    "size": "0.5–0.7 m",
    "best": "Dawn to 8am",
-   "note": "Glassy early, north end holds best once the breeze arrives."
+   "note": "Glassy early; north-easterly cross-onshore by late morning."
   },
   {
    "date": "2026-11-05",
