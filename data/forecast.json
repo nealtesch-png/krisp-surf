@@ -656,7 +656,7 @@
    "date": "2026-11-02",
    "day_label": "Monday 2 November",
    "short": "Mon 2",
-   "verdict": "Get in at dawn on the open beaches (Peregian, Coolum, Sunshine) while the north-westerly is offshore; it's small and gone once the north-easterly arrives mid-morning.",
+   "verdict": "Get in at dawn on the open beaches (Scud's Peregian Beach, Coolum, Sunshine) while the north-westerly is offshore; it's small and gone once the north-easterly arrives mid-morning.",
    "outlook": "Partly cloudy, medium chance of showers, possible afternoon storm.",
    "temp_min_c": 19,
    "temp_max_c": 30,
@@ -686,7 +686,7 @@
    "date": "2026-11-04",
    "day_label": "Wednesday 4 November",
    "short": "Wed 4",
-   "verdict": "Pick of the week: light westerlies groom leftover north-east wind swell. Hit Peregian, Coolum or Seeto's Wurtulla from dawn to about 10am.",
+   "verdict": "Pick of the week: light westerlies groom leftover north-east wind swell. Hit Scud's Peregian Beach, Coolum or Seeto's Wurtulla from dawn to about 10am.",
    "outlook": "Partly cloudy and hot, showers and a storm possible later.",
    "temp_min_c": 20,
    "temp_max_c": 33,
@@ -763,7 +763,7 @@
   },
   {
    "date": "2026-11-01",
-   "spot": "Peregian Beach",
+   "spot": "Scud's Peregian Beach",
    "rating": "Poor",
    "size": "0.5–0.8 m",
    "best": "Dawn to 7am",
@@ -775,7 +775,7 @@
    "rating": "Poor",
    "size": "0.5–0.8 m",
    "best": "Dawn only",
-   "note": "The northerly is cross-shore on this east-facing beach. Small and bumpy, much like Sunshine and Peregian."
+   "note": "The northerly is cross-shore on this east-facing beach. Small and bumpy, much like Sunshine and Scud's Peregian."
   },
   {
    "date": "2026-11-01",
@@ -835,7 +835,7 @@
   },
   {
    "date": "2026-11-02",
-   "spot": "Peregian Beach",
+   "spot": "Scud's Peregian Beach",
    "rating": "Fair",
    "size": "0.5–0.7 m",
    "best": "Dawn to 8am",
@@ -907,7 +907,7 @@
   },
   {
    "date": "2026-11-03",
-   "spot": "Peregian Beach",
+   "spot": "Scud's Peregian Beach",
    "rating": "Poor",
    "size": "0.8–1.1 m",
    "best": "—",
@@ -979,7 +979,7 @@
   },
   {
    "date": "2026-11-04",
-   "spot": "Peregian Beach",
+   "spot": "Scud's Peregian Beach",
    "rating": "Good",
    "size": "0.7–1.0 m",
    "best": "Dawn to 10am",
@@ -1051,7 +1051,7 @@
   },
   {
    "date": "2026-11-05",
-   "spot": "Peregian Beach",
+   "spot": "Scud's Peregian Beach",
    "rating": "Fair",
    "size": "0.5–0.7 m",
    "best": "Dawn to 8am",
@@ -1123,7 +1123,7 @@
   },
   {
    "date": "2026-11-06",
-   "spot": "Peregian Beach",
+   "spot": "Scud's Peregian Beach",
    "rating": "Poor",
    "size": "0.5–0.7 m",
    "best": "—",
