@@ -1,66 +1,12 @@
 {
- "updated": "2026-10-31T16:30:00+10:00",
+ "updated": "2026-11-01T16:30:00+10:00",
  "wind": [
-  {
-   "date": "2026-11-01",
-   "time": "05:00",
-   "label": "5am",
-   "low_kmh": 8,
-   "high_kmh": 15,
-   "dir": "NNW",
-   "dir_deg": 337
-  },
-  {
-   "date": "2026-11-01",
-   "time": "08:00",
-   "label": "8am",
-   "low_kmh": 12,
-   "high_kmh": 20,
-   "dir": "N",
-   "dir_deg": 0
-  },
-  {
-   "date": "2026-11-01",
-   "time": "11:00",
-   "label": "11am",
-   "low_kmh": 18,
-   "high_kmh": 28,
-   "dir": "NNE",
-   "dir_deg": 22
-  },
-  {
-   "date": "2026-11-01",
-   "time": "14:00",
-   "label": "2pm",
-   "low_kmh": 22,
-   "high_kmh": 32,
-   "dir": "NNE",
-   "dir_deg": 22
-  },
-  {
-   "date": "2026-11-01",
-   "time": "17:00",
-   "label": "5pm",
-   "low_kmh": 20,
-   "high_kmh": 30,
-   "dir": "N",
-   "dir_deg": 0
-  },
-  {
-   "date": "2026-11-01",
-   "time": "20:00",
-   "label": "8pm",
-   "low_kmh": 15,
-   "high_kmh": 25,
-   "dir": "NNW",
-   "dir_deg": 337
-  },
   {
    "date": "2026-11-02",
    "time": "05:00",
    "label": "5am",
-   "low_kmh": 15,
-   "high_kmh": 25,
+   "low_kmh": 12,
+   "high_kmh": 20,
    "dir": "NW",
    "dir_deg": 315
   },
@@ -68,6 +14,15 @@
    "date": "2026-11-02",
    "time": "08:00",
    "label": "8am",
+   "low_kmh": 15,
+   "high_kmh": 22,
+   "dir": "NW",
+   "dir_deg": 315
+  },
+  {
+   "date": "2026-11-02",
+   "time": "11:00",
+   "label": "11am",
    "low_kmh": 12,
    "high_kmh": 20,
    "dir": "NNW",
@@ -75,28 +30,19 @@
   },
   {
    "date": "2026-11-02",
-   "time": "11:00",
-   "label": "11am",
+   "time": "14:00",
+   "label": "2pm",
    "low_kmh": 12,
-   "high_kmh": 20,
+   "high_kmh": 18,
    "dir": "NE",
    "dir_deg": 45
   },
   {
    "date": "2026-11-02",
-   "time": "14:00",
-   "label": "2pm",
-   "low_kmh": 15,
-   "high_kmh": 25,
-   "dir": "ENE",
-   "dir_deg": 68
-  },
-  {
-   "date": "2026-11-02",
    "time": "17:00",
    "label": "5pm",
-   "low_kmh": 15,
-   "high_kmh": 22,
+   "low_kmh": 6,
+   "high_kmh": 12,
    "dir": "NE",
    "dir_deg": 45
   },
@@ -104,46 +50,46 @@
    "date": "2026-11-02",
    "time": "20:00",
    "label": "8pm",
-   "low_kmh": 12,
-   "high_kmh": 20,
-   "dir": "N",
-   "dir_deg": 0
+   "low_kmh": 8,
+   "high_kmh": 14,
+   "dir": "NNW",
+   "dir_deg": 337
   },
   {
    "date": "2026-11-03",
    "time": "05:00",
    "label": "5am",
-   "low_kmh": 12,
-   "high_kmh": 20,
-   "dir": "N",
-   "dir_deg": 0
+   "low_kmh": 6,
+   "high_kmh": 12,
+   "dir": "NNW",
+   "dir_deg": 337
   },
   {
    "date": "2026-11-03",
    "time": "08:00",
    "label": "8am",
    "low_kmh": 15,
-   "high_kmh": 22,
-   "dir": "N",
-   "dir_deg": 0
+   "high_kmh": 25,
+   "dir": "NNW",
+   "dir_deg": 337
   },
   {
    "date": "2026-11-03",
    "time": "11:00",
    "label": "11am",
-   "low_kmh": 22,
-   "high_kmh": 32,
-   "dir": "N",
-   "dir_deg": 0
+   "low_kmh": 18,
+   "high_kmh": 30,
+   "dir": "NNW",
+   "dir_deg": 337
   },
   {
    "date": "2026-11-03",
    "time": "14:00",
    "label": "2pm",
-   "low_kmh": 25,
-   "high_kmh": 35,
-   "dir": "N",
-   "dir_deg": 0
+   "low_kmh": 20,
+   "high_kmh": 30,
+   "dir": "NW",
+   "dir_deg": 315
   },
   {
    "date": "2026-11-03",
@@ -151,71 +97,71 @@
    "label": "5pm",
    "low_kmh": 20,
    "high_kmh": 30,
-   "dir": "NNW",
-   "dir_deg": 337
+   "dir": "NW",
+   "dir_deg": 315
   },
   {
    "date": "2026-11-03",
    "time": "20:00",
    "label": "8pm",
-   "low_kmh": 12,
-   "high_kmh": 20,
-   "dir": "WNW",
-   "dir_deg": 292
+   "low_kmh": 18,
+   "high_kmh": 28,
+   "dir": "NW",
+   "dir_deg": 315
   },
   {
    "date": "2026-11-04",
    "time": "05:00",
    "label": "5am",
-   "low_kmh": 8,
-   "high_kmh": 14,
+   "low_kmh": 12,
+   "high_kmh": 20,
+   "dir": "NW",
+   "dir_deg": 315
+  },
+  {
+   "date": "2026-11-04",
+   "time": "08:00",
+   "label": "8am",
+   "low_kmh": 10,
+   "high_kmh": 18,
    "dir": "W",
    "dir_deg": 270
   },
   {
    "date": "2026-11-04",
-   "time": "08:00",
-   "label": "8am",
-   "low_kmh": 8,
-   "high_kmh": 14,
-   "dir": "WNW",
-   "dir_deg": 292
-  },
-  {
-   "date": "2026-11-04",
    "time": "11:00",
    "label": "11am",
-   "low_kmh": 8,
-   "high_kmh": 15,
-   "dir": "NNW",
-   "dir_deg": 337
+   "low_kmh": 6,
+   "high_kmh": 12,
+   "dir": "W",
+   "dir_deg": 270
   },
   {
    "date": "2026-11-04",
    "time": "14:00",
    "label": "2pm",
-   "low_kmh": 10,
-   "high_kmh": 18,
-   "dir": "NNE",
-   "dir_deg": 22
+   "low_kmh": 5,
+   "high_kmh": 10,
+   "dir": "NE",
+   "dir_deg": 45
   },
   {
    "date": "2026-11-04",
    "time": "17:00",
    "label": "5pm",
-   "low_kmh": 10,
-   "high_kmh": 16,
-   "dir": "NNW",
-   "dir_deg": 337
+   "low_kmh": 6,
+   "high_kmh": 12,
+   "dir": "NE",
+   "dir_deg": 45
   },
   {
    "date": "2026-11-04",
    "time": "20:00",
    "label": "8pm",
-   "low_kmh": 8,
-   "high_kmh": 14,
-   "dir": "NW",
-   "dir_deg": 315
+   "low_kmh": 6,
+   "high_kmh": 12,
+   "dir": "W",
+   "dir_deg": 270
   },
   {
    "date": "2026-11-05",
@@ -223,24 +169,24 @@
    "label": "5am",
    "low_kmh": 3,
    "high_kmh": 8,
-   "dir": "NNW",
-   "dir_deg": 337
+   "dir": "WSW",
+   "dir_deg": 248
   },
   {
    "date": "2026-11-05",
    "time": "08:00",
    "label": "8am",
-   "low_kmh": 5,
-   "high_kmh": 10,
-   "dir": "N",
-   "dir_deg": 0
+   "low_kmh": 3,
+   "high_kmh": 8,
+   "dir": "WSW",
+   "dir_deg": 248
   },
   {
    "date": "2026-11-05",
    "time": "11:00",
    "label": "11am",
-   "low_kmh": 10,
-   "high_kmh": 18,
+   "low_kmh": 8,
+   "high_kmh": 14,
    "dir": "NE",
    "dir_deg": 45
   },
@@ -248,17 +194,17 @@
    "date": "2026-11-05",
    "time": "14:00",
    "label": "2pm",
-   "low_kmh": 15,
-   "high_kmh": 22,
-   "dir": "NE",
-   "dir_deg": 45
+   "low_kmh": 12,
+   "high_kmh": 18,
+   "dir": "NNE",
+   "dir_deg": 22
   },
   {
    "date": "2026-11-05",
    "time": "17:00",
    "label": "5pm",
-   "low_kmh": 12,
-   "high_kmh": 20,
+   "low_kmh": 10,
+   "high_kmh": 16,
    "dir": "NNE",
    "dir_deg": 22
   },
@@ -266,10 +212,10 @@
    "date": "2026-11-05",
    "time": "20:00",
    "label": "8pm",
-   "low_kmh": 8,
-   "high_kmh": 14,
-   "dir": "NW",
-   "dir_deg": 315
+   "low_kmh": 15,
+   "high_kmh": 25,
+   "dir": "S",
+   "dir_deg": 180
   },
   {
    "date": "2026-11-06",
@@ -284,8 +230,8 @@
    "date": "2026-11-06",
    "time": "08:00",
    "label": "8am",
-   "low_kmh": 15,
-   "high_kmh": 22,
+   "low_kmh": 12,
+   "high_kmh": 20,
    "dir": "SE",
    "dir_deg": 135
   },
@@ -294,7 +240,7 @@
    "time": "11:00",
    "label": "11am",
    "low_kmh": 12,
-   "high_kmh": 20,
+   "high_kmh": 18,
    "dir": "ESE",
    "dir_deg": 112
   },
@@ -302,10 +248,10 @@
    "date": "2026-11-06",
    "time": "14:00",
    "label": "2pm",
-   "low_kmh": 12,
-   "high_kmh": 20,
-   "dir": "E",
-   "dir_deg": 90
+   "low_kmh": 10,
+   "high_kmh": 16,
+   "dir": "ESE",
+   "dir_deg": 112
   },
   {
    "date": "2026-11-06",
@@ -313,42 +259,87 @@
    "label": "5pm",
    "low_kmh": 8,
    "high_kmh": 14,
-   "dir": "E",
-   "dir_deg": 90
+   "dir": "ESE",
+   "dir_deg": 112
   },
   {
    "date": "2026-11-06",
    "time": "20:00",
    "label": "8pm",
-   "low_kmh": 4,
-   "high_kmh": 8,
-   "dir": "WNW",
-   "dir_deg": 292
-  }
- ],
- "swell": [
-  {
-   "date": "2026-11-01",
-   "time": "06:00",
-   "label": "6am",
-   "height_m": 0.8,
-   "period_s": 7,
+   "low_kmh": 6,
+   "high_kmh": 12,
    "dir": "ESE",
    "dir_deg": 112
   },
   {
-   "date": "2026-11-01",
-   "time": "12:00",
-   "label": "12pm",
-   "height_m": 0.9,
-   "period_s": 6,
+   "date": "2026-11-07",
+   "time": "05:00",
+   "label": "5am",
+   "low_kmh": 5,
+   "high_kmh": 10,
+   "dir": "E",
+   "dir_deg": 90
+  },
+  {
+   "date": "2026-11-07",
+   "time": "08:00",
+   "label": "8am",
+   "low_kmh": 6,
+   "high_kmh": 12,
+   "dir": "E",
+   "dir_deg": 90
+  },
+  {
+   "date": "2026-11-07",
+   "time": "11:00",
+   "label": "11am",
+   "low_kmh": 8,
+   "high_kmh": 14,
+   "dir": "ENE",
+   "dir_deg": 68
+  },
+  {
+   "date": "2026-11-07",
+   "time": "14:00",
+   "label": "2pm",
+   "low_kmh": 8,
+   "high_kmh": 14,
+   "dir": "ENE",
+   "dir_deg": 68
+  },
+  {
+   "date": "2026-11-07",
+   "time": "17:00",
+   "label": "5pm",
+   "low_kmh": 6,
+   "high_kmh": 12,
    "dir": "NE",
    "dir_deg": 45
   },
   {
-   "date": "2026-11-01",
-   "time": "18:00",
-   "label": "6pm",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "label": "8pm",
+   "low_kmh": 3,
+   "high_kmh": 8,
+   "dir": "N",
+   "dir_deg": 0
+  }
+ ],
+ "swell": [
+  {
+   "date": "2026-11-02",
+   "time": "06:00",
+   "label": "6am",
+   "height_m": 0.5,
+   "period_s": 6,
+   "dir": "E",
+   "dir_deg": 90
+  },
+  {
+   "date": "2026-11-02",
+   "time": "12:00",
+   "label": "12pm",
    "height_m": 0.7,
    "period_s": 6,
    "dir": "NE",
@@ -356,90 +347,72 @@
   },
   {
    "date": "2026-11-02",
+   "time": "18:00",
+   "label": "6pm",
+   "height_m": 0.75,
+   "period_s": 5.5,
+   "dir": "NNE",
+   "dir_deg": 22
+  },
+  {
+   "date": "2026-11-03",
    "time": "06:00",
    "label": "6am",
-   "height_m": 0.7,
+   "height_m": 0.4,
+   "period_s": 8,
+   "dir": "E",
+   "dir_deg": 90
+  },
+  {
+   "date": "2026-11-03",
+   "time": "12:00",
+   "label": "12pm",
+   "height_m": 1.2,
+   "period_s": 5,
+   "dir": "NE",
+   "dir_deg": 45
+  },
+  {
+   "date": "2026-11-03",
+   "time": "18:00",
+   "label": "6pm",
+   "height_m": 1.1,
+   "period_s": 5.5,
+   "dir": "NNE",
+   "dir_deg": 22
+  },
+  {
+   "date": "2026-11-04",
+   "time": "06:00",
+   "label": "6am",
+   "height_m": 0.9,
    "period_s": 5,
    "dir": "N",
    "dir_deg": 0
   },
   {
-   "date": "2026-11-02",
+   "date": "2026-11-04",
    "time": "12:00",
    "label": "12pm",
-   "height_m": 0.6,
-   "period_s": 6,
-   "dir": "ENE",
-   "dir_deg": 68
+   "height_m": 0.9,
+   "period_s": 5,
+   "dir": "NNE",
+   "dir_deg": 22
   },
   {
-   "date": "2026-11-02",
+   "date": "2026-11-04",
    "time": "18:00",
    "label": "6pm",
    "height_m": 0.7,
-   "period_s": 5,
-   "dir": "NNE",
-   "dir_deg": 22
-  },
-  {
-   "date": "2026-11-03",
-   "time": "06:00",
-   "label": "6am",
-   "height_m": 0.8,
-   "period_s": 5,
-   "dir": "NNE",
-   "dir_deg": 22
-  },
-  {
-   "date": "2026-11-03",
-   "time": "12:00",
-   "label": "12pm",
-   "height_m": 1.1,
-   "period_s": 6,
-   "dir": "NNE",
-   "dir_deg": 22
-  },
-  {
-   "date": "2026-11-03",
-   "time": "18:00",
-   "label": "6pm",
-   "height_m": 1.1,
-   "period_s": 6,
-   "dir": "NNE",
-   "dir_deg": 22
-  },
-  {
-   "date": "2026-11-04",
-   "time": "06:00",
-   "label": "6am",
-   "height_m": 0.9,
-   "period_s": 6,
-   "dir": "NNE",
-   "dir_deg": 22
-  },
-  {
-   "date": "2026-11-04",
-   "time": "12:00",
-   "label": "12pm",
-   "height_m": 0.8,
-   "period_s": 6,
-   "dir": "NNE",
-   "dir_deg": 22
-  },
-  {
-   "date": "2026-11-04",
-   "time": "18:00",
-   "label": "6pm",
-   "height_m": 0.8,
-   "period_s": 6,
-   "dir": "NNE",
-   "dir_deg": 22
+   "period_s": 6.5,
+   "dir": "ENE",
+   "dir_deg": 68
   },
   {
    "date": "2026-11-05",
    "time": "06:00",
    "label": "6am",
-   "height_m": 0.6,
+   "height_m": 0.5,
    "period_s": 8,
    "dir": "E",
    "dir_deg": 90
@@ -448,31 +421,58 @@
    "date": "2026-11-05",
    "time": "12:00",
    "label": "12pm",
-   "height_m": 0.8,
-   "period_s": 5,
-   "dir": "NNE",
-   "dir_deg": 22
+   "height_m": 0.6,
+   "period_s": 8,
+   "dir": "E",
+   "dir_deg": 90
   },
   {
    "date": "2026-11-05",
    "time": "18:00",
    "label": "6pm",
-   "height_m": 0.6,
-   "period_s": 7,
-   "dir": "ENE",
-   "dir_deg": 68
-  },
-  {
-   "date": "2026-11-06",
-   "time": "06:00",
-   "label": "6am",
-   "height_m": 0.5,
-   "period_s": 9,
+   "height_m": 0.55,
+   "period_s": 8,
    "dir": "E",
    "dir_deg": 90
   },
   {
    "date": "2026-11-06",
+   "time": "06:00",
+   "label": "6am",
+   "height_m": 1.7,
+   "period_s": 7,
+   "dir": "SE",
+   "dir_deg": 135
+  },
+  {
+   "date": "2026-11-06",
+   "time": "12:00",
+   "label": "12pm",
+   "height_m": 1.3,
+   "period_s": 6,
+   "dir": "SE",
+   "dir_deg": 135
+  },
+  {
+   "date": "2026-11-06",
+   "time": "18:00",
+   "label": "6pm",
+   "height_m": 1.2,
+   "period_s": 6,
+   "dir": "ESE",
+   "dir_deg": 112
+  },
+  {
+   "date": "2026-11-07",
+   "time": "06:00",
+   "label": "6am",
+   "height_m": 0.6,
+   "period_s": 9,
+   "dir": "E",
+   "dir_deg": 90
+  },
+  {
+   "date": "2026-11-07",
    "time": "12:00",
    "label": "12pm",
    "height_m": 0.6,
@@ -481,7 +481,7 @@
    "dir_deg": 90
   },
   {
-   "date": "2026-11-06",
+   "date": "2026-11-07",
    "time": "18:00",
    "label": "6pm",
    "height_m": 0.6,
@@ -492,176 +492,161 @@
  ],
  "tides": [
   {
-   "date": "2026-11-01",
-   "time": "00:19",
+   "date": "2026-11-02",
+   "time": "01:56",
    "type": "High",
-   "height_m": 1.08
-  },
-  {
-   "date": "2026-11-01",
-   "time": "06:09",
-   "type": "Low",
-   "height_m": 0.44
-  },
-  {
-   "date": "2026-11-01",
-   "time": "13:15",
-   "type": "High",
-   "height_m": 1.73
-  },
-  {
-   "date": "2026-11-01",
-   "time": "20:21",
-   "type": "Low",
-   "height_m": 0.53
+   "height_m": 1.0
   },
   {
    "date": "2026-11-02",
-   "time": "01:57",
+   "time": "07:22",
+   "type": "Low",
+   "height_m": 0.45
+  },
+  {
+   "date": "2026-11-02",
+   "time": "14:08",
+   "type": "High",
+   "height_m": 1.58
+  },
+  {
+   "date": "2026-11-02",
+   "time": "21:14",
+   "type": "Low",
+   "height_m": 0.25
+  },
+  {
+   "date": "2026-11-03",
+   "time": "03:14",
    "type": "High",
    "height_m": 1.09
   },
   {
-   "date": "2026-11-02",
-   "time": "07:35",
+   "date": "2026-11-03",
+   "time": "08:48",
    "type": "Low",
-   "height_m": 0.51
-  },
-  {
-   "date": "2026-11-02",
-   "time": "14:28",
-   "type": "High",
-   "height_m": 1.69
-  },
-  {
-   "date": "2026-11-02",
-   "time": "21:28",
-   "type": "Low",
-   "height_m": 0.48
+   "height_m": 0.47
   },
   {
    "date": "2026-11-03",
-   "time": "03:18",
+   "time": "15:14",
    "type": "High",
-   "height_m": 1.19
+   "height_m": 1.55
   },
   {
    "date": "2026-11-03",
-   "time": "08:58",
+   "time": "22:08",
    "type": "Low",
-   "height_m": 0.52
+   "height_m": 0.19
   },
   {
-   "date": "2026-11-03",
-   "time": "15:31",
+   "date": "2026-11-04",
+   "time": "04:16",
    "type": "High",
-   "height_m": 1.67
-  },
-  {
-   "date": "2026-11-03",
-   "time": "22:21",
-   "type": "Low",
-   "height_m": 0.41
+   "height_m": 1.23
   },
   {
    "date": "2026-11-04",
-   "time": "04:22",
+   "time": "10:02",
+   "type": "Low",
+   "height_m": 0.44
+  },
+  {
+   "date": "2026-11-04",
+   "time": "16:11",
    "type": "High",
-   "height_m": 1.32
+   "height_m": 1.51
   },
   {
    "date": "2026-11-04",
-   "time": "10:09",
+   "time": "22:51",
    "type": "Low",
-   "height_m": 0.49
-  },
-  {
-   "date": "2026-11-04",
-   "time": "16:26",
-   "type": "High",
-   "height_m": 1.65
-  },
-  {
-   "date": "2026-11-04",
-   "time": "23:04",
-   "type": "Low",
-   "height_m": 0.34
+   "height_m": 0.14
   },
   {
    "date": "2026-11-05",
-   "time": "05:14",
+   "time": "05:06",
+   "type": "High",
+   "height_m": 1.37
+  },
+  {
+   "date": "2026-11-05",
+   "time": "11:04",
+   "type": "Low",
+   "height_m": 0.39
+  },
+  {
+   "date": "2026-11-05",
+   "time": "17:00",
    "type": "High",
    "height_m": 1.47
   },
   {
    "date": "2026-11-05",
-   "time": "11:08",
+   "time": "23:29",
    "type": "Low",
-   "height_m": 0.46
+   "height_m": 0.1
   },
   {
-   "date": "2026-11-05",
-   "time": "17:12",
+   "date": "2026-11-06",
+   "time": "05:49",
+   "type": "High",
+   "height_m": 1.51
+  },
+  {
+   "date": "2026-11-06",
+   "time": "11:56",
+   "type": "Low",
+   "height_m": 0.34
+  },
+  {
+   "date": "2026-11-06",
+   "time": "17:45",
+   "type": "High",
+   "height_m": 1.42
+  },
+  {
+   "date": "2026-11-07",
+   "time": "00:02",
+   "type": "Low",
+   "height_m": 0.08
+  },
+  {
+   "date": "2026-11-07",
+   "time": "06:28",
    "type": "High",
    "height_m": 1.62
   },
   {
-   "date": "2026-11-05",
-   "time": "23:42",
+   "date": "2026-11-07",
+   "time": "12:43",
    "type": "Low",
-   "height_m": 0.27
-  },
-  {
-   "date": "2026-11-06",
-   "time": "05:58",
-   "type": "High",
-   "height_m": 1.6
-  },
-  {
-   "date": "2026-11-06",
-   "time": "12:00",
-   "type": "Low",
-   "height_m": 0.44
-  },
-  {
-   "date": "2026-11-06",
-   "time": "17:54",
-   "type": "High",
-   "height_m": 1.57
+   "height_m": 0.29
   },
   {
    "date": "2026-11-07",
-   "time": "00:15",
+   "time": "18:26",
+   "type": "High",
+   "height_m": 1.36
+  },
+  {
+   "date": "2026-11-08",
+   "time": "00:34",
    "type": "Low",
-   "height_m": 0.25
+   "height_m": 0.09
   }
  ],
  "day": [
   {
-   "date": "2026-11-01",
-   "day_label": "Sunday 1 November",
-   "short": "Sun 1",
-   "verdict": "Northerlies all day on a small mixed swell. Your best shot is Kings Beach from dawn to about 10am, where the northerly blows offshore.",
-   "outlook": "Partly cloudy, showers from late morning, possible afternoon storm.",
-   "temp_min_c": 17,
-   "temp_max_c": 28,
-   "rain_chance_pct": 60,
-   "rain_mm": "0–3",
-   "uv_max": 11,
-   "sunrise": "04:58",
-   "sunset": "18:04",
-   "water_c": 23
-  },
-  {
    "date": "2026-11-02",
    "day_label": "Monday 2 November",
    "short": "Mon 2",
-   "verdict": "Get in at dawn on the open beaches (Scud's Peregian Beach, Coolum, Sunshine) while the north-westerly is offshore; it's small and gone once the north-easterly arrives mid-morning.",
-   "outlook": "Partly cloudy, medium chance of showers, possible afternoon storm.",
+   "verdict": "Get in early at Sunshine Beach, Coolum Beach or Seeto's Wurtulla Beach while the north-westerly holds the small 0.5 m wave clean; it swings north-east around midday and blows it out.",
+   "outlook": "Partly cloudy, showers and a possible storm late morning and afternoon.",
    "temp_min_c": 19,
-   "temp_max_c": 30,
-   "rain_chance_pct": 30,
-   "rain_mm": "0–1",
+   "temp_max_c": 29,
+   "rain_chance_pct": 40,
+   "rain_mm": "0–2",
    "uv_max": 12,
    "sunrise": "04:56",
    "sunset": "18:04",
@@ -671,12 +656,12 @@
    "date": "2026-11-03",
    "day_label": "Tuesday 3 November",
    "short": "Tue 3",
-   "verdict": "Strong northerlies make a mess of a building wind swell. Save your energy, unless a small, clean Kings Beach at first light appeals.",
-   "outlook": "Showers likely in the afternoon and evening, storms likely.",
+   "verdict": "Save your energy: fresh north to north-westerlies, a messy short-period windswell building in the afternoon and possibly severe storms.",
+   "outlook": "High chance of showers and storms, possibly severe in the afternoon and evening.",
    "temp_min_c": 20,
-   "temp_max_c": 29,
+   "temp_max_c": 30,
    "rain_chance_pct": 80,
-   "rain_mm": "0–15",
+   "rain_mm": "1–15",
    "uv_max": 11,
    "sunrise": "04:56",
    "sunset": "18:05",
@@ -686,13 +671,13 @@
    "date": "2026-11-04",
    "day_label": "Wednesday 4 November",
    "short": "Wed 4",
-   "verdict": "Pick of the week: light westerlies groom leftover north-east wind swell. Hit Scud's Peregian Beach, Coolum or Seeto's Wurtulla from dawn to about 10am.",
-   "outlook": "Partly cloudy and hot, showers and a storm possible later.",
+   "verdict": "Worth a dawn paddle: the leftover north-east windswell (about 0.7–1 m) cleans up under a westerly at Sunshine Beach, Scud's Peregian Beach and Coolum Beach until about 10am; Alexandra Headland is also worth a look.",
+   "outlook": "Partly cloudy and hot, slight chance of a shower; possible morning storm.",
    "temp_min_c": 20,
    "temp_max_c": 33,
-   "rain_chance_pct": 50,
-   "rain_mm": "0–3",
-   "uv_max": 11,
+   "rain_chance_pct": 30,
+   "rain_mm": "0–1",
+   "uv_max": 12,
    "sunrise": "04:56",
    "sunset": "18:06",
    "water_c": 23
@@ -701,13 +686,13 @@
    "date": "2026-11-05",
    "day_label": "Thursday 5 November",
    "short": "Thu 5",
-   "verdict": "Glassy but small at dawn on the open beaches; Kings Beach is a fun option mid-morning as the north-easterly sits offshore there.",
-   "outlook": "Partly cloudy and hot, slight chance of a shower.",
-   "temp_min_c": 19,
+   "verdict": "Small but glassy early: try Seeto's Wurtulla Beach or Sunshine Beach at dawn for 0.5 m peaks before the north-easterly sea breeze arrives.",
+   "outlook": "Sunny and hot with light winds; southerly change at night.",
+   "temp_min_c": 18,
    "temp_max_c": 33,
-   "rain_chance_pct": 30,
-   "rain_mm": "0–1",
-   "uv_max": 11,
+   "rain_chance_pct": 10,
+   "rain_mm": "0",
+   "uv_max": 12,
    "sunrise": "04:54",
    "sunset": "18:07",
    "water_c": 23
@@ -716,13 +701,28 @@
    "date": "2026-11-06",
    "day_label": "Friday 6 November",
    "short": "Fri 6",
-   "verdict": "South-easterlies put the Noosa points offshore: Granite Bay is your best bet in the morning on a small, clean east swell; Alexandra Headland is the backup.",
-   "outlook": "Partly cloudy and cooler, slight chance of a shower.",
+   "verdict": "Pick of the week: a south-east swell of 1.5 m-plus with south-east winds lights up the Noosa points, with Granite Bay biggest; Alexandra Headland is the backup. Go early.",
+   "outlook": "Partly cloudy and cooler, medium chance of showers.",
    "temp_min_c": 19,
    "temp_max_c": 27,
-   "rain_chance_pct": 20,
-   "rain_mm": "0",
-   "uv_max": 11,
+   "rain_chance_pct": 40,
+   "rain_mm": "0–1",
+   "uv_max": 12,
+   "sunrise": "04:54",
+   "sunset": "18:07",
+   "water_c": 23
+  },
+  {
+   "date": "2026-11-07",
+   "day_label": "Saturday 7 November",
+   "short": "Sat 7",
+   "verdict": "Not much doing: a small 0.6 m east swell with light onshores. If you must, check the open beaches at dawn before the easterly fills in.",
+   "outlook": "Partly cloudy, showers and a chance of a storm.",
+   "temp_min_c": 20,
+   "temp_max_c": 29,
+   "rain_chance_pct": 60,
+   "rain_mm": "0–7",
+   "uv_max": 12,
    "sunrise": "04:54",
    "sunset": "18:07",
    "water_c": 23
@@ -730,436 +730,436 @@
  ],
  "spots": [
   {
-   "date": "2026-11-01",
+   "date": "2026-11-02",
    "spot": "National Park",
-   "rating": "Poor",
-   "size": "0.2–0.4 m",
+   "rating": "Flat",
+   "size": "0–0.2 m",
    "best": "—",
-   "note": "Tiny and the northerly is onshore on these north-facing points."
+   "note": "No swell getting in, and the north-westerly is cross-onshore on this north-facing point."
   },
   {
-   "date": "2026-11-01",
+   "date": "2026-11-02",
    "spot": "Boiling Pot",
+   "rating": "Flat",
+   "size": "0–0.2 m",
+   "best": "—",
+   "note": "Flat; north-westerly sits wrong for the point."
+  },
+  {
+   "date": "2026-11-02",
+   "spot": "Granite Bay",
    "rating": "Poor",
    "size": "0.2–0.4 m",
    "best": "—",
-   "note": "Northerly blows straight in; barely breaking."
+   "note": "A small ripple only, with the north-westerly cross-onshore."
   },
   {
-   "date": "2026-11-01",
-   "spot": "Granite Bay",
+   "date": "2026-11-02",
+   "spot": "Sunshine Beach",
    "rating": "Poor",
    "size": "0.4–0.6 m",
-   "best": "—",
-   "note": "Picks up a bit of swell but the northerly is onshore."
-  },
-  {
-   "date": "2026-11-01",
-   "spot": "Sunshine Beach",
-   "rating": "Poor",
-   "size": "0.5–0.8 m",
-   "best": "Dawn to 7am",
-   "note": "Northerly cross-onshore from early; choppy by mid-morning."
-  },
-  {
-   "date": "2026-11-01",
-   "spot": "Scud's Peregian Beach",
-   "rating": "Poor",
-   "size": "0.5–0.8 m",
-   "best": "Dawn to 7am",
-   "note": "Cross-onshore northerly, short-period mush."
-  },
-  {
-   "date": "2026-11-01",
-   "spot": "Coolum Beach",
-   "rating": "Poor",
-   "size": "0.5–0.8 m",
-   "best": "Dawn only",
-   "note": "The northerly is cross-shore on this east-facing beach. Small and bumpy, much like Sunshine and Scud's Peregian."
-  },
-  {
-   "date": "2026-11-01",
-   "spot": "Alexandra Headland",
-   "rating": "Poor",
-   "size": "0.4–0.7 m",
-   "best": "—",
-   "note": "Northerly is cross-onshore on the point."
-  },
-  {
-   "date": "2026-11-01",
-   "spot": "Seeto's Wurtulla Beach",
-   "rating": "Poor",
-   "size": "0.6–0.9 m",
-   "best": "—",
-   "note": "Most size but the northerly is onshore-cross."
-  },
-  {
-   "date": "2026-11-01",
-   "spot": "Kings Beach",
-   "rating": "Fair",
-   "size": "0.4–0.7 m",
    "best": "Dawn to 10am",
-   "note": "Northerly is offshore here and the early south-east swell wraps in; small but clean."
+   "note": "Small, short-period wave; the north-westerly is cross-offshore early before it turns north-east midday."
   },
   {
    "date": "2026-11-02",
+   "spot": "Scud's Peregian Beach",
+   "rating": "Poor",
+   "size": "0.4–0.6 m",
+   "best": "Dawn to 10am",
+   "note": "Clean but tiny in the morning north-westerly (cross-offshore); onshore after midday."
+  },
+  {
+   "date": "2026-11-02",
+   "spot": "Coolum Beach",
+   "rating": "Poor",
+   "size": "0.4–0.6 m",
+   "best": "Dawn to 10am",
+   "note": "Small peaks with a cross-offshore north-westerly early; north-easterly onshore from midday."
+  },
+  {
+   "date": "2026-11-02",
+   "spot": "Alexandra Headland",
+   "rating": "Poor",
+   "size": "0.3–0.5 m",
+   "best": "—",
+   "note": "North-westerly is cross-shore on the point and the swell is too small and northerly to wrap."
+  },
+  {
+   "date": "2026-11-02",
+   "spot": "Seeto's Wurtulla Beach",
+   "rating": "Poor",
+   "size": "0.5–0.7 m",
+   "best": "Dawn to 10am",
+   "note": "Picks up the most of the small swell; north-westerly cross-offshore early, onshore after midday."
+  },
+  {
+   "date": "2026-11-02",
+   "spot": "Kings Beach",
+   "rating": "Flat",
+   "size": "0–0.3 m",
+   "best": "—",
+   "note": "Wind is fine but there's no east to south-east swell to wrap in."
+  },
+  {
+   "date": "2026-11-03",
    "spot": "National Park",
    "rating": "Poor",
    "size": "0.2–0.4 m",
    "best": "—",
-   "note": "North-westerly is cross-shore early, then north-easterly onshore."
+   "note": "Northerlies are onshore on these north-facing points."
   },
   {
-   "date": "2026-11-02",
+   "date": "2026-11-03",
    "spot": "Boiling Pot",
-   "rating": "Poor",
-   "size": "0.2–0.4 m",
+   "rating": "Flat",
+   "size": "0–0.3 m",
    "best": "—",
-   "note": "Too small and onshore once the north-easterly arrives."
+   "note": "Onshore northerlies and little swell."
   },
   {
-   "date": "2026-11-02",
+   "date": "2026-11-03",
    "spot": "Granite Bay",
+   "rating": "Poor",
+   "size": "0.4–0.7 m",
+   "best": "—",
+   "note": "Picks up some north-east windswell later but the northerly is straight onshore."
+  },
+  {
+   "date": "2026-11-03",
+   "spot": "Sunshine Beach",
+   "rating": "Poor",
+   "size": "0.4–1.0 m",
+   "best": "—",
+   "note": "Fresh north-north-westerly is cross-shore; windswell builds choppy in the afternoon with storms."
+  },
+  {
+   "date": "2026-11-03",
+   "spot": "Scud's Peregian Beach",
+   "rating": "Poor",
+   "size": "0.4–1.0 m",
+   "best": "—",
+   "note": "Cross-shore north-north-westerly and a short, messy windswell; storms later."
+  },
+  {
+   "date": "2026-11-03",
+   "spot": "Coolum Beach",
+   "rating": "Poor",
+   "size": "0.4–1.0 m",
+   "best": "—",
+   "note": "Messy short-period windswell under a fresh cross-shore northerly."
+  },
+  {
+   "date": "2026-11-03",
+   "spot": "Alexandra Headland",
    "rating": "Poor",
    "size": "0.3–0.6 m",
-   "best": "Dawn to 8am",
-   "note": "A few small ones early in the north-westerly; onshore later."
-  },
-  {
-   "date": "2026-11-02",
-   "spot": "Sunshine Beach",
-   "rating": "Fair",
-   "size": "0.5–0.7 m",
-   "best": "Dawn to 8am",
-   "note": "North-westerly is offshore at dawn; small, short-period peaks."
-  },
-  {
-   "date": "2026-11-02",
-   "spot": "Scud's Peregian Beach",
-   "rating": "Fair",
-   "size": "0.5–0.7 m",
-   "best": "Dawn to 8am",
-   "note": "Offshore north-westerly early, blown out by the north-easterly by late morning."
-  },
-  {
-   "date": "2026-11-02",
-   "spot": "Coolum Beach",
-   "rating": "Fair",
-   "size": "0.5–0.7 m",
-   "best": "Dawn to 8am",
-   "note": "Clean early in the north-westerly; small, and bumpy once the north-easterly arrives."
-  },
-  {
-   "date": "2026-11-02",
-   "spot": "Alexandra Headland",
-   "rating": "Poor",
-   "size": "0.3–0.5 m",
    "best": "—",
-   "note": "North-westerly is cross-offshore early but there's little swell from the east."
+   "note": "Northerly is cross-onshore on the point; bumpy."
   },
   {
-   "date": "2026-11-02",
+   "date": "2026-11-03",
    "spot": "Seeto's Wurtulla Beach",
-   "rating": "Fair",
-   "size": "0.5–0.8 m",
-   "best": "Dawn to 8am",
-   "note": "North-westerly offshore at dawn; picks up the most of the small swell."
+   "rating": "Poor",
+   "size": "0.5–1.0 m",
+   "best": "—",
+   "note": "Gets the most windswell but it's choppy under the cross-shore northerly."
   },
   {
-   "date": "2026-11-02",
+   "date": "2026-11-03",
    "spot": "Kings Beach",
    "rating": "Poor",
    "size": "0.2–0.4 m",
    "best": "—",
-   "note": "Clean in the north-westerly but too small to wrap in."
+   "note": "Northerly is offshore here but the north-east windswell won't wrap in."
   },
   {
-   "date": "2026-11-03",
+   "date": "2026-11-04",
    "spot": "National Park",
    "rating": "Poor",
    "size": "0.3–0.5 m",
    "best": "—",
-   "note": "Strong northerly blowing straight onshore."
+   "note": "Northerly swell reaches the point but the westerly is cross-shore and it's short and weak."
   },
   {
-   "date": "2026-11-03",
+   "date": "2026-11-04",
    "spot": "Boiling Pot",
+   "rating": "Poor",
+   "size": "0.2–0.4 m",
+   "best": "—",
+   "note": "A little northerly windswell; westerly is cross-shore."
+  },
+  {
+   "date": "2026-11-04",
+   "spot": "Granite Bay",
+   "rating": "Poor",
+   "size": "0.4–0.7 m",
+   "best": "Dawn to 9am",
+   "note": "Gets the most of the northerly windswell; westerly cross-shore, clean but weak."
+  },
+  {
+   "date": "2026-11-04",
+   "spot": "Sunshine Beach",
+   "rating": "Fair",
+   "size": "0.6–0.9 m",
+   "best": "Dawn to 10am",
+   "note": "Leftover north-east windswell groomed by an offshore westerly; north-easterly sea breeze afternoon."
+  },
+  {
+   "date": "2026-11-04",
+   "spot": "Scud's Peregian Beach",
+   "rating": "Fair",
+   "size": "0.6–0.9 m",
+   "best": "Dawn to 10am",
+   "note": "Offshore westerly in the morning on a short-period 0.7–0.9 m wave."
+  },
+  {
+   "date": "2026-11-04",
+   "spot": "Coolum Beach",
+   "rating": "Fair",
+   "size": "0.6–0.9 m",
+   "best": "Dawn to 10am",
+   "note": "Clean under the offshore morning westerly; fades and goes onshore after lunch."
+  },
+  {
+   "date": "2026-11-04",
+   "spot": "Alexandra Headland",
+   "rating": "Fair",
+   "size": "0.5–0.8 m",
+   "best": "Dawn to 10am",
+   "note": "Northerly windswell hits this north-east-facing point and the westerly is offshore; worth a look."
+  },
+  {
+   "date": "2026-11-04",
+   "spot": "Seeto's Wurtulla Beach",
+   "rating": "Fair",
+   "size": "0.6–1.0 m",
+   "best": "Dawn to 10am",
+   "note": "Picks up the most swell; offshore westerly until mid-morning."
+  },
+  {
+   "date": "2026-11-04",
+   "spot": "Kings Beach",
+   "rating": "Flat",
+   "size": "0–0.3 m",
+   "best": "—",
+   "note": "No east to south-east swell to wrap in, even with the offshore wind."
+  },
+  {
+   "date": "2026-11-05",
+   "spot": "National Park",
+   "rating": "Flat",
+   "size": "0–0.2 m",
+   "best": "—",
+   "note": "East swell is too small to wrap onto the points."
+  },
+  {
+   "date": "2026-11-05",
+   "spot": "Boiling Pot",
+   "rating": "Flat",
+   "size": "0–0.2 m",
+   "best": "—",
+   "note": "Flat."
+  },
+  {
+   "date": "2026-11-05",
+   "spot": "Granite Bay",
+   "rating": "Poor",
+   "size": "0.2–0.4 m",
+   "best": "—",
+   "note": "A small wrap; light winds."
+  },
+  {
+   "date": "2026-11-05",
+   "spot": "Sunshine Beach",
+   "rating": "Poor",
+   "size": "0.4–0.6 m",
+   "best": "Dawn to 9am",
+   "note": "Glassy under light west-south-westerlies at dawn; north-north-easterly onshore by afternoon."
+  },
+  {
+   "date": "2026-11-05",
+   "spot": "Scud's Peregian Beach",
+   "rating": "Poor",
+   "size": "0.4–0.6 m",
+   "best": "Dawn to 9am",
+   "note": "Small and clean early in light offshore winds."
+  },
+  {
+   "date": "2026-11-05",
+   "spot": "Coolum Beach",
+   "rating": "Poor",
+   "size": "0.4–0.6 m",
+   "best": "Dawn to 9am",
+   "note": "Small 8 s east swell, glassy early, then onshore north-easterly."
+  },
+  {
+   "date": "2026-11-05",
+   "spot": "Alexandra Headland",
    "rating": "Poor",
    "size": "0.3–0.5 m",
    "best": "—",
-   "note": "Onshore and messy."
+   "note": "Small; the afternoon north-easterly is cross-onshore on the point."
   },
   {
-   "date": "2026-11-03",
-   "spot": "Granite Bay",
+   "date": "2026-11-05",
+   "spot": "Seeto's Wurtulla Beach",
+   "rating": "Fair",
+   "size": "0.5–0.7 m",
+   "best": "Dawn to 9am",
+   "note": "Picks up the most of the clean east swell before the sea breeze."
+  },
+  {
+   "date": "2026-11-05",
+   "spot": "Kings Beach",
    "rating": "Poor",
-   "size": "0.6–0.9 m",
+   "size": "0.2–0.4 m",
    "best": "—",
-   "note": "Size from the north-east wind swell but the northerly is onshore."
+   "note": "East swell too small to wrap in properly; the north-easterly suits it in the afternoon."
   },
   {
-   "date": "2026-11-03",
+   "date": "2026-11-06",
+   "spot": "National Park",
+   "rating": "Fair",
+   "size": "0.5–0.8 m",
+   "best": "Dawn to 2pm",
+   "note": "South-east swell wrapping in with a south-easterly offshore on the point; short period keeps it soft."
+  },
+  {
+   "date": "2026-11-06",
+   "spot": "Boiling Pot",
+   "rating": "Fair",
+   "size": "0.4–0.7 m",
+   "best": "Dawn to 2pm",
+   "note": "Smaller inside point, but the south-easterly is offshore and it's clean."
+  },
+  {
+   "date": "2026-11-06",
+   "spot": "Granite Bay",
+   "rating": "Good",
+   "size": "0.8–1.2 m",
+   "best": "Dawn to 2pm",
+   "note": "Most exposed point, picking up the most south-east swell, with a south-easterly offshore."
+  },
+  {
+   "date": "2026-11-06",
    "spot": "Sunshine Beach",
    "rating": "Poor",
-   "size": "0.8–1.1 m",
+   "size": "1.2–1.6 m",
    "best": "—",
-   "note": "Strong northerly cross-onshore, wind-chopped."
+   "note": "Solid but messy; the south-easterly is cross-onshore on the open beach."
   },
   {
-   "date": "2026-11-03",
+   "date": "2026-11-06",
    "spot": "Scud's Peregian Beach",
    "rating": "Poor",
-   "size": "0.8–1.1 m",
+   "size": "1.2–1.6 m",
    "best": "—",
-   "note": "Messy north-east wind swell under a strong northerly."
+   "note": "Plenty of size but bumpy under a cross-onshore south-easterly."
   },
   {
-   "date": "2026-11-03",
+   "date": "2026-11-06",
    "spot": "Coolum Beach",
    "rating": "Poor",
-   "size": "0.7–1.0 m",
-   "best": "Dawn to 7am",
-   "note": "Strong northerly cross-onshore; wind-chopped from first light."
-  },
-  {
-   "date": "2026-11-03",
-   "spot": "Alexandra Headland",
-   "rating": "Poor",
-   "size": "0.5–0.8 m",
+   "size": "1.2–1.6 m",
    "best": "—",
-   "note": "Northerly is cross-onshore on the point."
+   "note": "Big, short-period and choppy in the cross-onshore south-easterly."
   },
   {
-   "date": "2026-11-03",
+   "date": "2026-11-06",
+   "spot": "Alexandra Headland",
+   "rating": "Fair",
+   "size": "0.8–1.2 m",
+   "best": "Dawn to 11am",
+   "note": "South-east swell suits the point and the south-easterly is cross-offshore; the best option south of Noosa."
+  },
+  {
+   "date": "2026-11-06",
    "spot": "Seeto's Wurtulla Beach",
+   "rating": "Poor",
+   "size": "1.2–1.6 m",
+   "best": "—",
+   "note": "Picks up lots of swell but it's messy under the cross-onshore south-easterly."
+  },
+  {
+   "date": "2026-11-06",
+   "spot": "Kings Beach",
    "rating": "Poor",
    "size": "0.8–1.2 m",
    "best": "—",
-   "note": "Plenty of size but onshore and lumpy."
+   "note": "Swell wraps in but the south-easterly blows straight onshore here."
   },
   {
-   "date": "2026-11-03",
-   "spot": "Kings Beach",
-   "rating": "Poor",
-   "size": "0.3–0.5 m",
-   "best": "Dawn to 9am",
-   "note": "Northerly is offshore but the north-east swell doesn't wrap in; tiny and clean."
-  },
-  {
-   "date": "2026-11-04",
-   "spot": "National Park",
-   "rating": "Poor",
-   "size": "0.3–0.5 m",
-   "best": "Dawn to 9am",
-   "note": "Light westerly is cross-shore; small north-east swell sneaks in."
-  },
-  {
-   "date": "2026-11-04",
-   "spot": "Boiling Pot",
-   "rating": "Fair",
-   "size": "0.3–0.6 m",
-   "best": "Dawn to 9am",
-   "note": "North-east wind swell reaches in under a light cross-offshore westerly."
-  },
-  {
-   "date": "2026-11-04",
-   "spot": "Granite Bay",
-   "rating": "Fair",
-   "size": "0.6–0.9 m",
-   "best": "Dawn to 10am",
-   "note": "Most exposed point catches the north-east swell; light westerly cross-shore early."
-  },
-  {
-   "date": "2026-11-04",
-   "spot": "Sunshine Beach",
-   "rating": "Good",
-   "size": "0.7–1.0 m",
-   "best": "Dawn to 10am",
-   "note": "Light westerly offshore grooming leftover wind swell."
-  },
-  {
-   "date": "2026-11-04",
-   "spot": "Scud's Peregian Beach",
-   "rating": "Good",
-   "size": "0.7–1.0 m",
-   "best": "Dawn to 10am",
-   "note": "Offshore westerly and fun peaks; sea breeze swings north-north-east late morning."
-  },
-  {
-   "date": "2026-11-04",
-   "spot": "Coolum Beach",
-   "rating": "Good",
-   "size": "0.7–1.0 m",
-   "best": "Dawn to 10am",
-   "note": "Offshore westerly, clean peaks along the beach."
-  },
-  {
-   "date": "2026-11-04",
-   "spot": "Alexandra Headland",
-   "rating": "Fair",
-   "size": "0.5–0.8 m",
-   "best": "Dawn to 9am",
-   "note": "Westerly is offshore on the beach side; swell angle is a bit north for the point."
-  },
-  {
-   "date": "2026-11-04",
-   "spot": "Seeto's Wurtulla Beach",
-   "rating": "Good",
-   "size": "0.8–1.0 m",
-   "best": "Dawn to 10am",
-   "note": "Picks up the most swell with a light offshore westerly."
-  },
-  {
-   "date": "2026-11-04",
-   "spot": "Kings Beach",
-   "rating": "Poor",
-   "size": "0.2–0.4 m",
-   "best": "—",
-   "note": "North-east swell doesn't wrap into the bay."
-  },
-  {
-   "date": "2026-11-05",
+   "date": "2026-11-07",
    "spot": "National Park",
    "rating": "Poor",
    "size": "0.2–0.4 m",
    "best": "—",
-   "note": "Glassy early but very small."
+   "note": "Small east swell barely wraps; the easterly is cross-shore on the point."
   },
   {
-   "date": "2026-11-05",
+   "date": "2026-11-07",
    "spot": "Boiling Pot",
-   "rating": "Poor",
-   "size": "0.2–0.4 m",
+   "rating": "Flat",
+   "size": "0–0.3 m",
    "best": "—",
-   "note": "Tiny; north-easterly onshore from late morning."
+   "note": "Flat."
   },
   {
-   "date": "2026-11-05",
+   "date": "2026-11-07",
    "spot": "Granite Bay",
    "rating": "Poor",
-   "size": "0.4–0.6 m",
-   "best": "Dawn to 8am",
-   "note": "Glassy at dawn, onshore once the north-easterly fills in."
+   "size": "0.3–0.5 m",
+   "best": "—",
+   "note": "A small wrap with a cross-shore easterly."
   },
   {
-   "date": "2026-11-05",
+   "date": "2026-11-07",
    "spot": "Sunshine Beach",
-   "rating": "Fair",
+   "rating": "Poor",
    "size": "0.5–0.7 m",
    "best": "Dawn to 8am",
-   "note": "Near-glassy at dawn on a small east swell."
+   "note": "Small 9 s east swell; light easterly onshore from early."
   },
   {
-   "date": "2026-11-05",
+   "date": "2026-11-07",
    "spot": "Scud's Peregian Beach",
-   "rating": "Fair",
+   "rating": "Poor",
    "size": "0.5–0.7 m",
    "best": "Dawn to 8am",
-   "note": "Glassy early; north-easterly cross-onshore by late morning."
+   "note": "Small, with light onshore easterlies."
   },
   {
-   "date": "2026-11-05",
+   "date": "2026-11-07",
    "spot": "Coolum Beach",
-   "rating": "Fair",
+   "rating": "Poor",
    "size": "0.5–0.7 m",
    "best": "Dawn to 8am",
-   "note": "Glassy early; north-easterly cross-onshore by late morning."
+   "note": "Small east swell; light onshores most of the day."
   },
   {
-   "date": "2026-11-05",
+   "date": "2026-11-07",
    "spot": "Alexandra Headland",
    "rating": "Poor",
    "size": "0.4–0.6 m",
-   "best": "Dawn to 8am",
-   "note": "Glassy early but north-easterly turns cross-onshore."
-  },
-  {
-   "date": "2026-11-05",
-   "spot": "Seeto's Wurtulla Beach",
-   "rating": "Fair",
-   "size": "0.5–0.8 m",
-   "best": "Dawn to 8am",
-   "note": "Glassy dawn session on the small east swell."
-  },
-  {
-   "date": "2026-11-05",
-   "spot": "Kings Beach",
-   "rating": "Fair",
-   "size": "0.3–0.5 m",
-   "best": "8am to 12pm",
-   "note": "North-easterly is offshore here and the east swell wraps in small and clean."
-  },
-  {
-   "date": "2026-11-06",
-   "spot": "National Park",
-   "rating": "Poor",
-   "size": "0.3–0.5 m",
-   "best": "7am to 12pm",
-   "note": "South-easterly offshore; small but clean little lines."
-  },
-  {
-   "date": "2026-11-06",
-   "spot": "Boiling Pot",
-   "rating": "Fair",
-   "size": "0.3–0.5 m",
-   "best": "7am to 12pm",
-   "note": "Offshore south-easterly, small clean runners on the east swell."
-  },
-  {
-   "date": "2026-11-06",
-   "spot": "Granite Bay",
-   "rating": "Fair",
-   "size": "0.5–0.7 m",
-   "best": "7am to 1pm",
-   "note": "Most exposed point, offshore south-easterly and longer-period east swell."
-  },
-  {
-   "date": "2026-11-06",
-   "spot": "Sunshine Beach",
-   "rating": "Poor",
-   "size": "0.5–0.7 m",
    "best": "—",
-   "note": "South-easterly is cross-onshore; bumpy."
+   "note": "East swell suits the point but the easterly is cross-onshore."
   },
   {
-   "date": "2026-11-06",
-   "spot": "Scud's Peregian Beach",
-   "rating": "Poor",
-   "size": "0.5–0.7 m",
-   "best": "—",
-   "note": "Cross-onshore south-easterly through the day."
-  },
-  {
-   "date": "2026-11-06",
-   "spot": "Coolum Beach",
-   "rating": "Poor",
-   "size": "0.5–0.7 m",
-   "best": "—",
-   "note": "South-easterly cross-onshore; lumpy."
-  },
-  {
-   "date": "2026-11-06",
-   "spot": "Alexandra Headland",
-   "rating": "Fair",
-   "size": "0.4–0.7 m",
-   "best": "7am to 12pm",
-   "note": "South-easterly is cross-offshore on the point with a clean east swell."
-  },
-  {
-   "date": "2026-11-06",
+   "date": "2026-11-07",
    "spot": "Seeto's Wurtulla Beach",
    "rating": "Poor",
    "size": "0.5–0.8 m",
-   "best": "Evening",
-   "note": "Onshore south-east to east most of the day; glassier at dusk."
+   "best": "Dawn to 8am",
+   "note": "Gets the most swell, but onshore easterlies."
   },
   {
-   "date": "2026-11-06",
+   "date": "2026-11-07",
    "spot": "Kings Beach",
    "rating": "Poor",
    "size": "0.3–0.5 m",
    "best": "—",
-   "note": "South-easterly blows straight in here."
+   "note": "Small east swell wraps in a little; the light easterly is onshore here."
   }
  ]
 }
