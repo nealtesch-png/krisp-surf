@@ -641,7 +641,7 @@
    "date": "2026-11-10",
    "day_label": "Tuesday 10 November",
    "short": "Tue 10",
-   "verdict": "Get in at dawn at Seeto's Wurtulla Beach, Coolum Beach or Sunshine Beach while the light winds hold on a fun 12-second south-east swell; once the north-easter kicks in late morning, slide down to Kings Beach where it blows offshore.",
+   "verdict": "Get in at dawn at Seeto's Wurtulla Beach, Coolum Beach or Sunshine Beach while the light winds hold on a fun south-east groundswell; once the north-easter kicks in late morning, slide down to Kings Beach where it blows offshore.",
    "outlook": "Partly cloudy with a medium chance of showers; light winds turning north-east 15–20 km/h in the early afternoon.",
    "temp_min_c": 17,
    "temp_max_c": 26,
@@ -656,7 +656,7 @@
    "date": "2026-11-11",
    "day_label": "Wednesday 11 November",
    "short": "Wed 11",
-   "verdict": "The groundswell is fading and northerlies turn it to short-period chop by lunch, so a quick dawn paddle at Kings Beach is about it — otherwise save your energy and stay clear of the evening storms.",
+   "verdict": "The groundswell is fading and northerlies turn it to weak, choppy windswell by lunch, so a quick dawn paddle at Kings Beach is about it — otherwise save your energy and stay clear of the evening storms.",
    "outlook": "Partly cloudy, high chance of showers and a chance of severe storms late afternoon and evening; north to north-east winds 15–20 km/h from midday.",
    "temp_min_c": 19,
    "temp_max_c": 29,
@@ -716,7 +716,7 @@
    "date": "2026-11-15",
    "day_label": "Sunday 15 November",
    "short": "Sun 15",
-   "verdict": "Best morning of the week: a 10-second east-north-east swell with light north-west to north winds, so hit Seeto's Wurtulla Beach, Coolum Beach or Sunshine Beach from dawn to 9am.",
+   "verdict": "Best morning of the week: a clean east-north-east swell with light north-west to north winds, so hit Seeto's Wurtulla Beach, Coolum Beach or Sunshine Beach from dawn to 9am.",
    "outlook": "Partly cloudy with a high chance of showers and a chance of a thunderstorm; light winds.",
    "temp_min_c": 20,
    "temp_max_c": 29,
@@ -759,7 +759,7 @@
    "rating": "Fair",
    "size": "0.6–0.9 m",
    "best": "Dawn to 9am",
-   "note": "Clean 12-second SE lines at dawn; light NNE is cross-shore early, onshore from late morning."
+   "note": "Clean SE groundswell lines at dawn; light NNE is cross-shore early, onshore from late morning."
   },
   {
    "date": "2026-11-10",
@@ -895,7 +895,7 @@
    "rating": "Poor",
    "size": "0.4–0.7 m",
    "best": "—",
-   "note": "Short-period NNE windswell with a cross-onshore north-westerly; not worth the walk."
+   "note": "Weak NNE windswell with a cross-onshore north-westerly; not worth the walk."
   },
   {
    "date": "2026-11-12",
@@ -919,7 +919,7 @@
    "rating": "Fair",
    "size": "0.5–0.8 m",
    "best": "Dawn to 8am",
-   "note": "Short-period windswell cleaned up by the early north-westerly; storms likely later."
+   "note": "Weak windswell cleaned up by the early north-westerly; storms likely later."
   },
   {
    "date": "2026-11-12",
@@ -935,7 +935,7 @@
    "rating": "Poor",
    "size": "0.5–0.8 m",
    "best": "Dawn to 8am",
-   "note": "NW cross-offshore early but the windswell is short-period and weak down here."
+   "note": "NW cross-offshore early but the windswell is weak and gutless down here."
   },
   {
    "date": "2026-11-12",
@@ -1047,7 +1047,7 @@
    "rating": "Poor",
    "size": "0.4–0.6 m",
    "best": "—",
-   "note": "Weak short-period swell; NNE cross-shore early, onshore NE by late morning."
+   "note": "Weak, gutless windswell; NNE cross-shore early, onshore NE by late morning."
   },
   {
    "date": "2026-11-14",
@@ -1119,7 +1119,7 @@
    "rating": "Fair",
    "size": "0.7–1.0 m",
    "best": "Dawn to 9am",
-   "note": "10-second ENE swell with a light NW cross-offshore at dawn; NNE onshore after 11am."
+   "note": "Clean ENE swell with a light NW cross-offshore at dawn; NNE onshore after 11am."
   },
   {
    "date": "2026-11-15",
